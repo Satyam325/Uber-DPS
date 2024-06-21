@@ -1,0 +1,2 @@
+Install plotly 
+install statsmodels
